@@ -2,37 +2,33 @@
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 const musicSchoolTestimonials = [
-    {
-      quote:
-        'Joining the music school transformed my understanding of music and helped me to truly discover my own sound. The instructors are world-class!',
-      name: 'Alex Johnson',
-      title: 'Guitar Student',
-    },
-    {
-      quote:
-        "The community and support at this school are unmatched. I've grown not just as a pianist, but also as a performer, thanks to their comprehensive approach.",
-      name: 'Samantha Lee',
-      title: 'Piano Student',
-    },
-    {
-      quote:
-        "This school offered me the tools and confidence to take my singing to the next level. I'm endlessly grateful for the personalized coaching.",
-      name: 'Michael Chen',
-      title: 'Vocal Student',
-    },
-    {
-      quote:
-        'As a violinist, finding the right mentor can be challenging, but this school matched me with a teacher who truly understands my goals and challenges.',
-      name: 'Emily Taylor',
-      title: 'Violin Student',
-    },
-    {
-      quote:
-        'The production courses here opened my eyes to the intricacies of music production. Highly recommend for any aspiring producers!',
-      name: 'Chris Morales',
-      title: 'Music Production Student',
-    },
-  ];
+  {
+    "quote": "Enrolling in this music school completely changed how I experience and create music. I finally found my unique sound, thanks to the amazing instructors!",
+    "name": "Arjun Mehra",
+    "title": "Guitar Student"
+  },
+  {
+    "quote": "The support and sense of community here are incredible. I've developed both as a pianist and as a confident performer through their holistic teaching style.",
+    "name": "Ananya Iyer",
+    "title": "Piano Student"
+  },
+  {
+    "quote": "This school gave me the skills and encouragement I needed to elevate my singing. The one-on-one coaching made a world of difference.",
+    "name": "Rohan Sharma",
+    "title": "Vocal Student"
+  },
+  {
+    "quote": "Finding the right violin teacher isn’t easy, but this school paired me with someone who truly gets my musical aspirations and challenges.",
+    "name": "Meera Nair",
+    "title": "Violin Student"
+  },
+  {
+    "quote": "The production courses here completely expanded my understanding of music creation. A must for anyone serious about becoming a producer!",
+    "name": "Kabir Desai",
+    "title": "Music Production Student"
+  }
+];
+
 
 function MusicSchoolTestimonials() {
   return (
